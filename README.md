@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub profile for **Popeye-D-Sailor**, creator and maintainer of **WGOPilot™**.
 
+Impact-Site-Verification: 437bf73f-11ae-4bf5-b92b-ae7a3d50a557
+
 ---
 
 ## ✈️ Flagship Project: **WGOPilot™ — Flight Control for WireGuard® & OpenVPN® on OpenWrt®**

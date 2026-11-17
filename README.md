@@ -13,13 +13,30 @@ Built for home users, streaming and gaming enthusiasts, and network administrato
 ### 🌐 Commercial VPN Provider Compatibility & Partner Hub
 **WGOPilot™** includes automated API and profile adapters—plus an optional in-app **Partner Deals & Recommended VPN Providers** directory—for leading commercial VPN services:
 
-| Compatible Service | Native **WGOPilot™** Capabilities |
-| :--- | :--- |
-| **NordVPN®** | • Automated token provisioning and key registration for **NordLynx®** (built on the **WireGuard®** protocol)<br>• Real-time server load, city/country discovery & low-latency gate selection<br>• Profile support for the **OpenVPN®** protocol (`UDP` & `TCP :443` Stealth fallback) and specialty server groups |
-| **Surfshark®** | • Automated key management and profile provisioning for the **WireGuard®** protocol, city/country relay catalog & MultiHop support<br>• Seamless Warm Standby & Autopilot failover integration |
-| **Proton VPN®** | • Native profile management for the **WireGuard®** and **OpenVPN®** protocols, Secure Core, P2P & NAT-PMP Port Forwarding |
-| **Private Internet Access® (PIA®)** | • Automated token authentication, key registration for the **WireGuard®** protocol & automated Port Forwarding daemon |
-| **Mullvad®** | • Native relay catalog discovery, multihop/bridge support & custom `.conf` / `.ovpn` Hardware Vault management |
+| Compatible Service | Native **WGOPilot™** Capabilities | Official Partner / Signup Link |
+| :--- | :--- | :--- |
+| **NordVPN®** | • Automated token provisioning and key registration for **NordLynx®** (built on the **WireGuard®** protocol)<br>• Real-time server load, city/country discovery & low-latency gate selection<br>• Profile support for the **OpenVPN®** protocol (`UDP` & `TCP :443` Stealth fallback) and specialty server groups | [**Get NordVPN® →**](https://popeye-d-sailor.github.io/go/nordvpn) |
+| **Surfshark®** | • Automated key management and profile provisioning for the **WireGuard®** protocol, city/country relay catalog & MultiHop support<br>• Seamless Warm Standby & Autopilot failover integration | [**Get Surfshark® →**](https://popeye-d-sailor.github.io/go/surfshark) |
+| **Proton VPN®** | • Native profile management for the **WireGuard®** and **OpenVPN®** protocols, Secure Core, P2P & NAT-PMP Port Forwarding | [**Get Proton VPN® →**](https://popeye-d-sailor.github.io/go/protonvpn) |
+| **Private Internet Access® (PIA®)** | • Automated token authentication, key registration for the **WireGuard®** protocol & automated Port Forwarding daemon | [**Get PIA® →**](https://popeye-d-sailor.github.io/go/pia) |
+| **Mullvad®** | • Native relay catalog discovery, multihop/bridge support & custom `.conf` / `.ovpn` Hardware Vault management | [**Visit Mullvad® →**](https://popeye-d-sailor.github.io/go/mullvad) |
+
+---
+
+### 📡 Recommended Router Hardware for **WGOPilot™** (on **OpenWrt®**)
+Looking for a high-throughput home or travel router for **WGOPilot™**? These multi-core ARM64 routers deliver top performance with the **WireGuard®** and **OpenVPN®** protocols:
+
+| Router Model | Category & Key Specs | Check Price / Availability |
+| :--- | :--- | :--- |
+| **GL.iNet® Flint 2 (`GL-MT6000`)** | **Home Flagship (Wi-Fi 6)** • Quad-Core 2.0 GHz ARM64 • Dual 2.5GbE Ports • Up to ~900 Mbps VPN throughput | [**View on Amazon →**](https://popeye-d-sailor.github.io/go/hw-flint2) |
+| **GL.iNet® Beryl AX (`GL-MT3000`)** | **Pocket Travel Gateway (Wi-Fi 6)** • Dual-Core 1.3 GHz • 2.5GbE WAN • USB-C Powered | [**View on Amazon →**](https://popeye-d-sailor.github.io/go/hw-beryl) |
+| **GL.iNet® Slate AX (`GL-AXT1800`)** | **Gigabit Travel Router (Wi-Fi 6)** • Quad-Core 1.2 GHz • 3x Gigabit Ports • MicroSD & USB 3.0 | [**View on Amazon →**](https://popeye-d-sailor.github.io/go/hw-slate) |
+| **GL.iNet® Brume 2 (`GL-MT2500`)** | **Dedicated Wired VPN Gateway** • 2.5GbE WAN + 1GbE LAN • Drop-in VPN accelerator for existing Wi-Fi systems | [**View on Amazon →**](https://popeye-d-sailor.github.io/go/hw-brume2) |
+| **GL.iNet® Wi-Fi 7 & Wi-Fi 6 Lineup** | **Full Lineup (*Beryl 7*, *Slate 7*, *Flint 3*, *Spitz AX*)** • Travel, cellular 5G, and home routers | [**Browse GL.iNet® Lineup →**](https://popeye-d-sailor.github.io/go/glinet) |
+| **Cudy `WR3000` (Wi-Fi 6)** | **Budget Home Pick** • Dual-Core Filogic 820 ARM64 • Native **OpenWrt®** support at an entry-level price | [**View on Amazon →**](https://popeye-d-sailor.github.io/go/hw-cudy) |
+| **Banana Pi `BPI-R3` / `BPI-R4`** | **Enthusiast 2.5G / 10G SFP+ Router Board** • Extreme multi-gigabit routing & hardware expansion | [**View on Amazon →**](https://popeye-d-sailor.github.io/go/hw-banana) |
+| **FriendlyElec `NanoPi R4S / R5S / R6S`** | **Compact Metal Multi-Gigabit VPN Appliance** • High-speed wired gateway for rack or desk setups | [**View on Amazon →**](https://popeye-d-sailor.github.io/go/hw-friendly) |
+| **All Compatible Router Hardware** | **Complete Curated Router & Networking Directory** | [**Browse All Hardware →**](https://popeye-d-sailor.github.io/go/hardware) |
 
 ---
 

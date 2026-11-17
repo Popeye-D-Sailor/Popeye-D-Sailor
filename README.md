@@ -41,9 +41,10 @@ Built for home users, streaming and gaming enthusiasts, and network administrato
 
 ---
 
-### 📦 Project Status & Supported Platforms
+### 📦 Project Status, Supported Platforms & Recommended Hardware
 - **Current Stage**: Final Pre-Release QA & Hardware Certification (`v1.0` Release Candidate)
-- **Supported Operating Systems**: **OpenWrt®** `21.02`, `22.03`, `23.05`, `24.10`, and `25.12` (`apk` & `opkg` compatible across ARM, MIPS, and x86_64 architectures)
+- **Supported Operating Systems**: **OpenWrt®** `21.02`, `22.03`, `23.05`, `24.10`, and `25.12` (`apk` & `opkg` compatible across ARM, MIPS, and x86_64 architectures, including **GL.iNet®** routers running stock OpenWrt®-based firmware or vanilla **OpenWrt®**)
+- **Recommended Router Hardware**: High-performance ARM64/multi-core routers supporting **OpenWrt®**, including **GL.iNet®** home and travel gateways (*Flint 2 GL-MT6000*, *Beryl AX GL-MT3000*, *Slate AX GL-AXT1800*) and **Linksys®** WRT series routers
 - **License**: **WGOPilot™ Non-Commercial & Commercial Dual License Agreement** *(Free for Personal & Non-Commercial Home Use; Commercial License Required for Commercial, MSP & Fleet Use)*
 
 ---

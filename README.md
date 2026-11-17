@@ -2,8 +2,6 @@
 
 Welcome to the official GitHub profile for **Popeye-D-Sailor**, creator and maintainer of **WGOPilot™**.
 
-Impact-Site-Verification: 437bf73f-11ae-4bf5-b92b-ae7a3d50a557
-
 ---
 
 ## ✈️ Flagship Project: **WGOPilot™ — Flight Control for WireGuard® & OpenVPN® on OpenWrt®**
@@ -76,3 +74,5 @@ Built for home users, streaming and gaming enthusiasts, and network administrato
    - **"GL.iNet®"** is a registered trademark of **GL Technologies**.
    - **"Linksys®"** is a registered trademark of **Linksys Holdings, Inc.**
    - Commercial VPN, DNS, monitoring, and notification service names (**NordVPN®**, **NordLynx®**, **ExpressVPN®**, **Surfshark®**, **Mullvad®**, **Proton VPN®**, **Private Internet Access®** / **PIA®**, **CyberGhost®**, **Windscribe®**, **IPVanish®**, **Cloudflare®**, **AdGuard®**, **NextDNS®**, **Quad9®**, **Control D™**, **Prometheus®**, **Home Assistant™**, **Discord®**, **Telegram®**, **ntfy.sh™**) are trademarks™ or registered® trademarks of their respective owners and are referenced solely under nominative fair use to indicate user-configured compatibility without implying partnership, affiliation, or endorsement.
+
+<sub>Impact-Site-Verification: 437bf73f-11ae-4bf5-b92b-ae7a3d50a557</sub>

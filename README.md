@@ -66,6 +66,13 @@ Looking for a high-throughput home or travel router for **WGOPilot™**? These m
 
 ---
 
+### ❤️ Sponsor & Support Development
+If **WGOPilot™** or any of our router networking tools save you time and keep your home network secure, you can support ongoing development, OpenWrt® release testing, and hardware testbed maintenance via:
+- ☕ [**Support on Ko-fi (`ko-fi.com/popeyedsailor`) →**](https://ko-fi.com/popeyedsailor) *(One-time coffee or recurring support — 0% platform fee)*
+- 💖 [**Sponsor on GitHub Sponsors (`github.com/sponsors/Popeye-D-Sailor`) →**](https://github.com/sponsors/Popeye-D-Sailor) *(Monthly or one-time GitHub sponsorship)*
+
+---
+
 ## ⚖️ Legal, Privacy, Warranty, Affiliate & Trademark Notices
 
 **Copyright © 2026 Popeye-D-Sailor (`https://github.com/Popeye-D-Sailor`). All rights reserved.**

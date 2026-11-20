@@ -1,14 +1,30 @@
 # ⚓ Popeye-D-Sailor — Network & Router Systems Engineering
 
-Welcome to the official GitHub profile for **Popeye-D-Sailor**, creator and maintainer of **WGOPilot™**.
+Welcome to the official GitHub profile for **Popeye-D-Sailor**, creator and maintainer of [**WGOPilot™**](https://popeye-d-sailor.github.io/).
+
+- 🌐 **Official Product Showcase & Hardware Portal**: [**https://popeye-d-sailor.github.io/**](https://popeye-d-sailor.github.io/)
 
 ---
 
 ## ✈️ Flagship Project: **WGOPilot™ — Flight Control for WireGuard® & OpenVPN® on OpenWrt®**
 
-**WGOPilot™** is a zero-bloat, enterprise-grade router VPN management suite, Web Cockpit, and 42-column SSH CLI designed for routers running the **OpenWrt®** operating system (`21.02` through `25.12+`) and supporting the **WireGuard®** and **OpenVPN®** protocols.
+**WGOPilot™** is a zero-bloat, enterprise-grade router VPN management suite, Avionics Web Cockpit, and 42-column SSH CLI designed for routers running the **OpenWrt®** operating system (`21.02` through `25.12+`) and supporting the **WireGuard®** and **OpenVPN®** protocols.
 
 Built for home users, streaming and gaming enthusiasts, and network administrators, **WGOPilot™** turns compatible router hardware into a self-healing VPN gateway.
+
+---
+
+### 🖥️ Live Avionics Web Cockpit & 3-Step Provider Setup Wizard
+
+| **1. Guided 3-Step Provider, Key & First-Flight Setup Wizard (`#/setup`)** | **2. Main Flight Deck & 4-Card Avionics HUD (`#/cockpit`)** |
+| :---: | :---: |
+| [![WGOPilot 3-Step Provider Setup Wizard](https://popeye-d-sailor.github.io/assets/screenshots/provider-setup-wizard.png)](https://popeye-d-sailor.github.io/#screenshots) | [![WGOPilot Main Flight Deck](https://popeye-d-sailor.github.io/assets/screenshots/cockpit-flight-deck.png)](https://popeye-d-sailor.github.io/#screenshots) |
+| Walks users through commercial VPN provider selection (**NordVPN®**, **Surfshark®**, **Proton VPN®**, **Private Internet Access® / PIA®**, **Mullvad®**, or Custom `.conf`/`.ovpn`), AES-256 Hardware Vault key storage, and first-flight leak verification. | Real-time Flight Status HUD displaying active outbound protocol (**WireGuard®** / **OpenVPN®**), Inbound Home Server status, Cabin Seal (Kill Switch), Autopilot watchdog, and 1-click Flight Mode Presets. |
+| **3. Flight Wizards Hub & 9 1-Click Task Assistants (`#/quick-setup`)** | **4. 5-Section Avionics Settings & Input Border Key (`#/settings`)** |
+| [![WGOPilot Flight Wizards Hub](https://popeye-d-sailor.github.io/assets/screenshots/flight-wizards-hub.png)](https://popeye-d-sailor.github.io/#screenshots) | [![WGOPilot Avionics Settings](https://popeye-d-sailor.github.io/assets/screenshots/settings-avionics.png)](https://popeye-d-sailor.github.io/#screenshots) |
+| Guided 1-click task wizards for Streaming & Smart-TV Unlock, Gaming Jitter Optimization, Hotel/Airport Captive Portal Assist, Phone-Home VPN Server, and Encrypted Backup Capsules. | Fine-grained control over Tunnel MTU & MSS Clamping, DNS-over-HTTPS / Private VPN DNS resolvers, IPv6 leak policy, and USB tethering uplinks with color-coded Input Border Key indicators. |
+
+---
 
 ### 🌐 Commercial VPN Provider Compatibility & Partner Hub
 **WGOPilot™** includes automated API and profile adapters—plus an optional in-app **Partner Deals & Recommended VPN Providers** directory—for leading commercial VPN services:
